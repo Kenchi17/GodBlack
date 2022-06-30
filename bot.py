@@ -43,7 +43,7 @@ def main():
     api_id = 13108769
     api_hash = "080207b4f4d213b0ad99e15f08bfa982"
     bot_token = "5182785203:AAFFoRQ-eY06Wd77je34rebQn1d9JIVS1Hc"
-    tl_admin_user = "el_garro"
+    tl_admin_user = "Kenchi17"
     # end
 
     # create dispatcher and regs
