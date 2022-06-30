@@ -153,6 +153,7 @@ async def upload(ev,bot,jdb,message_edited=None):
                          text += '📦Tamaño Total: '+sizeof_fmt(filefullsize)+' \n'
                          if 'url' in data:
                             buttonsadd.append(Button.url('🔗'+filename+'🔗',data['url']))
+                     await message.edit(text, buttons=buttonsadd)
                  if evidence:
                      client.saveEvidence(evidence)
                  if uptype=='blog':
