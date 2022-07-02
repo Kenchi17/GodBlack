@@ -1,1 +1,0 @@
-el_garro={'dir': '', 'cloudtype': 'moodle', 'moodle_host': 'https://aulacened.uci.cu/', 'moodle_repo_id': 5, 'moodle_user': 'yile', 'moodle_password': 'Hkz#17220117', 'isadmin': 1, 'zips': 1, 'uploadtype': 'draft', 'proxy': 'socks5://181.225.255.17:7080', 'path': '/'}
